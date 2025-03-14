@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scientific-lab-website/static/css/main.8fad3a46.css",
+    "main.js": "/scientific-lab-website/static/js/main.6d17138f.js",
+    "static/media/logo.svg": "/scientific-lab-website/static/media/logo.53fcc8d254dab671b8c78ee688a47540.svg",
+    "index.html": "/scientific-lab-website/index.html",
+    "main.8fad3a46.css.map": "/scientific-lab-website/static/css/main.8fad3a46.css.map",
+    "main.6d17138f.js.map": "/scientific-lab-website/static/js/main.6d17138f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fad3a46.css",
+    "static/js/main.6d17138f.js"
+  ]
+}
