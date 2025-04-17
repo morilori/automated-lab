@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/automated-lab/static/css/main.4696fa9f.css",
-    "main.js": "/automated-lab/static/js/main.bad2a023.js",
+    "main.js": "/automated-lab/static/js/main.c9abead9.js",
     "static/media/logo.svg": "/automated-lab/static/media/logo.630075e8371ef05d99c50c21e08a2a30.svg",
     "index.html": "/automated-lab/index.html",
     "main.4696fa9f.css.map": "/automated-lab/static/css/main.4696fa9f.css.map",
-    "main.bad2a023.js.map": "/automated-lab/static/js/main.bad2a023.js.map"
+    "main.c9abead9.js.map": "/automated-lab/static/js/main.c9abead9.js.map"
   },
   "entrypoints": [
     "static/css/main.4696fa9f.css",
-    "static/js/main.bad2a023.js"
+    "static/js/main.c9abead9.js"
   ]
 }
